@@ -52,3 +52,5 @@ You may access the shiny application here:
   
 To check out the code for the application, click her:  
 [**GitHub Repository**](https://github.com/akshayamrit/CentralLimitTheorem.git)  
+  
+![Screenshot of the application](Central Limit Theorem Peer Project.png){width=500px,height=500px}
