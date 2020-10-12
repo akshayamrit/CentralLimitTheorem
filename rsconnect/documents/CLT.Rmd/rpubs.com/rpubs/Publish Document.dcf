@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/563221/bc6458e3a8a54d26a23166d083d54608
+bundleId: https://api.rpubs.com/api/v1/document/563221/bc6458e3a8a54d26a23166d083d54608
+url: http://rpubs.com/akshayamrit/563221
+when: 1602538392.33936

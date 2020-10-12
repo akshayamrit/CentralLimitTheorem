@@ -5,8 +5,9 @@ account: akshayamrit
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1623768
-bundleId: 2699277
+bundleId: 3731819
 url: https://akshayamrit.shinyapps.io/CentralLimitTheorem/
-when: 1577781502.20719
+when: 1602537856.11481
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: Central Limit Theorem Peer Project.png|CLT.html|CLT.Rmd
